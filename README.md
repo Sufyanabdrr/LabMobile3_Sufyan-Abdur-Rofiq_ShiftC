@@ -181,26 +181,37 @@ B. Screenshot Tampilan Aplikasi :
 
 1. login_page.dart :
    ![image](https://github.com/user-attachments/assets/667568c7-b8dd-4aa6-83d1-35eeffe6b785)
+   
    ![image](https://github.com/user-attachments/assets/177e668b-7eab-4204-84f6-7e7e6faceb73)
+   
    ![image](https://github.com/user-attachments/assets/d2daba15-0f3e-4564-8b6c-b1e43a11af79)
 
-2. home_page.dart :
-   <br>
+
+3. home_page.dart :
    ![image](https://github.com/user-attachments/assets/fc5c9516-f0eb-459b-9ddf-57a3267456dd)
-<br>
+
+   
 4. sidemenu.dart :
    ![image](https://github.com/user-attachments/assets/72cc172b-cc1d-490c-a1d2-8db5d9c5f94f)
 
+
 5. about_page.dart :
    ![image](https://github.com/user-attachments/assets/7282da3d-5112-40a4-9c2d-7135d7035320)
+   
    ![image](https://github.com/user-attachments/assets/9a3ffd54-615c-44bb-a311-c3c948403fb0)
 
-6. mission_page.dart :
+
+7. mission_page.dart :
    ![image](https://github.com/user-attachments/assets/c2a33000-510a-4e12-b8c7-06220d86fccc)
+   
    ![image](https://github.com/user-attachments/assets/08e071ef-43b5-45aa-b080-457f463705a5)
+   
    ![image](https://github.com/user-attachments/assets/c7bffa76-7653-4fe0-9f27-fbedf1618a2c)
+   
    ![image](https://github.com/user-attachments/assets/0a912927-ab53-4a7f-a954-73f95b1e6458)
+   
    ![image](https://github.com/user-attachments/assets/2c251c0d-6cdd-4a46-923f-9ebdb650be2b)
+   
    ![image](https://github.com/user-attachments/assets/e1393126-7e8c-45f4-a516-ee53c85af276)
 
 
