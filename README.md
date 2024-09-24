@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/08f61d08-a370-4b54-92a8-c13c1d2181ec)
 A. Penjelasan Kode :
 
 1. login_page.dart :
