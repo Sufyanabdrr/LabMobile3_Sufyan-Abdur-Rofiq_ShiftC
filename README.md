@@ -185,12 +185,13 @@ B. Screenshot Tampilan Aplikasi :
    ![image](https://github.com/user-attachments/assets/d2daba15-0f3e-4564-8b6c-b1e43a11af79)
 
 2. home_page.dart :
+   <br>
    ![image](https://github.com/user-attachments/assets/fc5c9516-f0eb-459b-9ddf-57a3267456dd)
-
-3. sidemenu.dart :
+<br>
+4. sidemenu.dart :
    ![image](https://github.com/user-attachments/assets/72cc172b-cc1d-490c-a1d2-8db5d9c5f94f)
 
-4. about_page.dart :
+5. about_page.dart :
    ![image](https://github.com/user-attachments/assets/7282da3d-5112-40a4-9c2d-7135d7035320)
    ![image](https://github.com/user-attachments/assets/9a3ffd54-615c-44bb-a311-c3c948403fb0)
 
